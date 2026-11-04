@@ -1,0 +1,129 @@
+study_id,bar,start_tick,tonic,collection,chord_pitches,intent
+mt01,1,0,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,2,1920,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,3,3840,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,4,5760,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,5,7680,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,6,9600,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,7,11520,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,8,13440,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,9,15360,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,10,17280,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,11,19200,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,12,21120,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,13,23040,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,14,24960,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,15,26880,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,16,28800,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,17,30720,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,18,32640,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,19,34560,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,20,36480,B,pack-local equal-tempered pitch collection,47 50 54,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,21,38400,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,22,40320,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,23,42240,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,24,44160,B,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,25,46080,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,26,48000,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,27,49920,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,28,51840,B,pack-local equal-tempered pitch collection,52 55 59,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,29,53760,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,30,55680,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,31,57600,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt01,32,59520,B,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Initial cell establishes the material.
+mt02,1,0,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,2,1920,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,3,3840,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,4,5760,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,5,7680,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,6,9600,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,7,11520,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,8,13440,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,9,15360,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,10,17280,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,11,19200,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,12,21120,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,13,23040,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,14,24960,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,15,26880,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,16,28800,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,17,30720,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,18,32640,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,19,34560,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,20,36480,D,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,21,38400,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,22,40320,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,23,42240,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,24,44160,D,pack-local equal-tempered pitch collection,55 58 62,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,25,46080,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,26,48000,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,27,49920,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,28,51840,D,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,29,53760,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,30,55680,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,31,57600,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt02,32,59520,D,pack-local equal-tempered pitch collection,50 53 57,Small rhythmic changes across a deliberately narrow palette. Statement introduces a different contour.
+mt03,1,0,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,2,1920,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,3,3840,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,4,5760,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,5,7680,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,6,9600,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,7,11520,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,8,13440,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,9,15360,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,10,17280,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,11,19200,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,12,21120,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,13,23040,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,14,24960,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,15,26880,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,16,28800,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,17,30720,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,18,32640,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,19,34560,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,20,36480,F,pack-local equal-tempered pitch collection,58 61 65,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,21,38400,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,22,40320,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,23,42240,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,24,44160,F,pack-local equal-tempered pitch collection,56 59 63,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,25,46080,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,26,48000,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,27,49920,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,28,51840,F,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,29,53760,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,30,55680,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,31,57600,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt03,32,59520,F,pack-local equal-tempered pitch collection,54 57 61,Small rhythmic changes across a deliberately narrow palette. Contrast moves the accent map.
+mt04,1,0,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,2,1920,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,3,3840,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,4,5760,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,5,7680,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,6,9600,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,7,11520,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,8,13440,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,9,15360,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,10,17280,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,11,19200,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,12,21120,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,13,23040,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,14,24960,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,15,26880,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,16,28800,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,17,30720,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,18,32640,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,19,34560,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,20,36480,C,pack-local equal-tempered pitch collection,51 54 58,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,21,38400,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,22,40320,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,23,42240,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,24,44160,C,pack-local equal-tempered pitch collection,48 51 55,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,25,46080,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,26,48000,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,27,49920,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,28,51840,C,pack-local equal-tempered pitch collection,49 52 56,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,29,53760,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,30,55680,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,31,57600,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.
+mt04,32,59520,C,pack-local equal-tempered pitch collection,53 56 60,Small rhythmic changes across a deliberately narrow palette. Return keeps the identity while changing one placement.

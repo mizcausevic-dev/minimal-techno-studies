@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/minimal-techno-studies-simple-synth-preview.mp3",
+  "preview_sha256": "5f6bbda3777ce8ca8088ae043e3793e548c35a6c0a3cdc39c0f6dad8eba9aad9",
+  "source_midi_path": "midi/mt01-one-shift/mt01-one-shift-combined.mid",
+  "source_midi_sha256": "46819d1f0da4909793c387c5bf0df21c742e5f2293d49de583c9f161ae9a8d58",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "mt01",
+    "start_seconds": 0,
+    "end_seconds": 61.935
+  },
+  "measurement": {
+    "sample_peak": 0.107856,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+mt01,One Shift,pack-local equal-tempered pitch collection,B,124,4/4,480,32,61440,midi/mt01-one-shift/mt01-one-shift-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mt02,Narrow Field,pack-local equal-tempered pitch collection,D,124,4/4,480,32,61440,midi/mt02-narrow-field/mt02-narrow-field-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mt03,Square Step,pack-local equal-tempered pitch collection,F,124,4/4,480,32,61440,midi/mt03-square-step/mt03-square-step-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mt04,Final Offset,pack-local equal-tempered pitch collection,C,124,4/4,480,32,61440,midi/mt04-final-offset/mt04-final-offset-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
