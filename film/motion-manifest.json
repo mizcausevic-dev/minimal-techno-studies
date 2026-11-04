@@ -1,0 +1,26 @@
+{
+  "title": "Minimal Techno",
+  "study": "mt01",
+  "bpm": 124,
+  "source_audio": "preview/minimal-techno-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "5f6bbda3777ce8ca8088ae043e3793e548c35a6c0a3cdc39c0f6dad8eba9aad9",
+  "source_midi": "midi/mt01-one-shift/mt01-one-shift-combined.mid",
+  "source_midi_sha256": "46819d1f0da4909793c387c5bf0df21c742e5f2293d49de583c9f161ae9a8d58",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "5dd4748b544aaa04c5d47da441d8a1e1498c9cd568dc7820002c8c42f7ebfda0",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "a56a6a28a797bc031556fccb95f1aeb269f7e5611a037941876f789c68c926c2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "856c930e85e5652f70752b4465c7c32e58d17178cd813f1701fd0655130fba28",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
