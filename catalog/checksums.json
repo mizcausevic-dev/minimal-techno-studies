@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3687,
+      "sha256": "eeb81fc1db95ac74c11d1b040dbb1748164b2bbad1f5ccc41aa3d2438cd991fe"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -63,8 +73,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1565,
-      "sha256": "a46520cbef5a4c8084dd2af8ae48a2a2233d572004523a2bd6356a07b3144136"
+      "bytes": 1787,
+      "sha256": "2eba206529459f804e718c6ae93996b33b326d334f7c9753fe29eed0ac23daf1"
     },
     {
       "path": "catalog/release-spec.json",
@@ -103,8 +113,8 @@
     },
     {
       "path": "downloads/minimal-techno-studies-midi.zip",
-      "bytes": 22015,
-      "sha256": "d83357f3da449c4bdded7268953c16e9ed72cd86c1d289808798ad507efcd666"
+      "bytes": 23028,
+      "sha256": "cf49a6faae7181c3ccfecd1a85c95e730250ba92b334db8a85592d5b5d5fee76"
     },
     {
       "path": "film/poster.jpg",
@@ -278,13 +288,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1048,
-      "sha256": "39577c207b1b9e744527dafa7ad46edddb76d90bf58fe75decd6be24e02bcc96"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3526,
-      "sha256": "4c041d9851f0054af37c8516200c72eda54d4dcc9a8d87341a18d381f98dc9eb"
+      "bytes": 1131,
+      "sha256": "b555998ac31eacb0417f7edbfa4a42925cf3ff1517fbec626ae315a1bd9e410c"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -313,13 +318,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 59060,
-      "sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b"
+      "bytes": 59237,
+      "sha256": "4f287a942b42d24d0fdad95868f2b08cf1ef059a4f9c63d5882a461c5dc6efe7"
     },
     {
       "path": "tools/polish_release.py",
