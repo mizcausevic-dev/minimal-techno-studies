@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 784,
-      "sha256": "a982d3b2f25b2b2b3dc77e055f1a59d1db614b0aa97af6733a76f23e4278580c"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3687,
-      "sha256": "eeb81fc1db95ac74c11d1b040dbb1748164b2bbad1f5ccc41aa3d2438cd991fe"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/minimal-techno-studies-midi.zip",
-      "bytes": 23028,
-      "sha256": "cf49a6faae7181c3ccfecd1a85c95e730250ba92b334db8a85592d5b5d5fee76"
+      "bytes": 24015,
+      "sha256": "07de4b01164ab7150e3a157efe9914f69759f7c5a3175564af345ba29b3fd739"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 30925,
       "sha256": "7295d09324e9ea7b9768734b50acc71e2410f5090dcb8433f3ee656a1032247c"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 890420,
-      "sha256": "856c930e85e5652f70752b4465c7c32e58d17178cd813f1701fd0655130fba28"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9322,
-      "sha256": "99a8602311416d5714704bd6018e8c0dbbaf9ee2a55fc1b469b628e3550ba707"
+      "bytes": 9512,
+      "sha256": "cbad127b035e2dc082195cb31d273812bf4757f16eaacf1d10cd91fc95b29265"
     },
     {
       "path": "midi/mt01-one-shift/chord_pulse.mid",
@@ -317,6 +297,16 @@
       "sha256": "9b45963c4ad4c5f6f4c2d781d30cb8ba6b19ded8479e74d6792551aab6dcdcf7"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 784,
+      "sha256": "a982d3b2f25b2b2b3dc77e055f1a59d1db614b0aa97af6733a76f23e4278580c"
+    },
+    {
       "path": "preview/minimal-techno-studies-simple-synth-preview.mp3",
       "bytes": 1500308,
       "sha256": "5f6bbda3777ce8ca8088ae043e3793e548c35a6c0a3cdc39c0f6dad8eba9aad9"
@@ -325,6 +315,16 @@
       "path": "preview/preview-manifest.json",
       "bytes": 1131,
       "sha256": "b555998ac31eacb0417f7edbfa4a42925cf3ff1517fbec626ae315a1bd9e410c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3802,
+      "sha256": "943fe86a87e822936bdee91677e34558370065f9138fc35764b690b4cbead198"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
